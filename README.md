@@ -29,4 +29,4 @@ If you are developing a production application, we recommend updating the config
 # Preview
 
 <img src="public/preview.png">
-
+<a href="https://github-blog-gilt.vercel.app/" target="_blank">Live Demo</a>
